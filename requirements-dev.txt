@@ -1,0 +1,4 @@
+notebook==7.1.2
+requests==2.31.0
+fastapi==0.110.1
+uvicorn==0.29.0
