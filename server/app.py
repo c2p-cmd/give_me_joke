@@ -2,7 +2,6 @@ import os
 import json
 from random import choice as random_element
 
-import uvicorn
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -46,6 +45,3 @@ def get_joke(
             return filered_joke[0]
     
     return random_element(seq=jokes)
-
-if __name__ == '__main__':
-    uvicorn.run(app="app:api", host="0.0.0.0", port=8000, reload=True)
