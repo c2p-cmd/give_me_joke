@@ -5,10 +5,10 @@ from random import choice as random_element
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 
-api = FastAPI()
+app = FastAPI()
 
 origins = ["*"]
-api.add_middleware(
+app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,
     allow_methods=["get"],
@@ -16,14 +16,14 @@ api.add_middleware(
 )
 
 
-@api.get("/")
+@app.get("/")
 def health_check():
     return {
         "status" : "Okay!",
         "message" : "All systems operational"
     }
 
-@api.get("/joke")
+@app.get("/joke")
 def get_joke(
     programming: bool = False,
     id: str = None
