@@ -1,0 +1,587 @@
+[
+    {
+        "category": "Programming",
+        "id": "00587dfb-322f-4bce-847a-0ca7c55d9595",
+        "joke": "What's the best thing about a Boolean?\nEven if you're wrong, you're only off by a bit."
+    },
+    {
+        "category": "Programming",
+        "id": "770c8d45-53d0-4bf5-8b6a-7d52f3fddd42",
+        "joke": "What's the object-oriented way to become wealthy?\nInheritance"
+    },
+    {
+        "category": "Programming",
+        "id": "54024b9d-cfe4-4048-9feb-ebcf32f54d3f",
+        "joke": "Where do programmers like to hangout?\nThe Foo Bar."
+    },
+    {
+        "category": "Programming",
+        "id": "3712d6a0-3ed9-4d0c-9f35-75f84bb378fd",
+        "joke": "Why did the programmer quit his job?\nBecause he didn't get arrays."
+    },
+    {
+        "category": "Programming",
+        "id": "b205c3a4-c4a8-4c1d-9362-6cfebd95b342",
+        "joke": "Why do programmers always mix up Halloween and Christmas?\nBecause Oct 31 == Dec 25"
+    },
+    {
+        "category": "Programming",
+        "id": "faf9a69a-c018-4e51-8287-ff91a0e0680c",
+        "joke": "A SQL query walks into a bar, walks up to two tables and asks...\n'Can I join you?'"
+    },
+    {
+        "category": "Programming",
+        "id": "f8438e87-4557-465c-b0e2-0a44f7b85437",
+        "joke": "How many programmers does it take to change a lightbulb?\nNone that's a hardware problem"
+    },
+    {
+        "category": "Programming",
+        "id": "d5c0500b-ac55-4945-a84d-ea383d569126",
+        "joke": "If you put a million monkeys at a million keyboards, one of them will eventually write a Java program\nthe rest of them will write Perl"
+    },
+    {
+        "category": "Programming",
+        "id": "6493c559-eb34-4b36-ba09-42605504b23f",
+        "joke": "['hip', 'hip']\n(hip hip array)"
+    },
+    {
+        "category": "Programming",
+        "id": "8058661b-a4ee-45a1-b034-9322e61e1d04",
+        "joke": "To understand what recursion is...\nYou must first understand what recursion is"
+    },
+    {
+        "category": "Programming",
+        "id": "52dc7dee-5a24-4121-bfe4-0f047c8403c7",
+        "joke": "There are 10 types of people in this world...\nThose who understand binary and those who don't"
+    },
+    {
+        "category": "Programming",
+        "id": "de3767f6-24b1-4787-9c42-752ef1a20207",
+        "joke": "Which song would an exception sing?\nCan't catch me - Avicii"
+    },
+    {
+        "category": "Programming",
+        "id": "b134044f-c76a-4e89-b671-42cc0a8b1c4d",
+        "joke": "Why do Java programmers wear glasses?\nBecause they don't C#."
+    },
+    {
+        "category": "Programming",
+        "id": "f0ef10fc-145c-40f1-8920-f7c17dd3f8b5",
+        "joke": "How do you check if a webpage is HTML5?\nTry it out on Internet Explorer"
+    },
+    {
+        "category": "Programming",
+        "id": "c4d969d0-d604-4ae3-a851-0366b4b8ef52",
+        "joke": "Lady: How do I spread love in this cruel world?\nRandom Dude: [...\ud83d\udc98]"
+    },
+    {
+        "category": "Programming",
+        "id": "0b5b1270-6315-49cf-9876-7444127fc2b4",
+        "joke": "A user interface is like a joke.\nIf you have to explain it then it is not that good."
+    },
+    {
+        "category": "Programming",
+        "id": "7a78cd56-2bf2-4768-ad6e-ff4f4d85849f",
+        "joke": "I was gonna tell you a joke about UDP...\n...but you might not get it."
+    },
+    {
+        "category": "Programming",
+        "id": "8a1c8cb8-f79f-48dd-8d33-21de0b0326c5",
+        "joke": "The punchline often arrives before the set-up.\nDo you know the problem with UDP jokes?"
+    },
+    {
+        "category": "Programming",
+        "id": "cde697ef-fa5c-4360-a3be-54a85e369889",
+        "joke": "Why do C# and Java developers keep breaking their keyboards?\nBecause they use a strongly typed language."
+    },
+    {
+        "category": "Programming",
+        "id": "9c9db09c-c217-4738-8765-a8db8bd77d02",
+        "joke": "Knock-knock.\nA race condition. Who is there?"
+    },
+    {
+        "category": "Programming",
+        "id": "3febcc45-2c41-4a87-9bbd-dca072ea0ef3",
+        "joke": "What's the best part about TCP jokes?\nI get to keep telling them until you get them."
+    },
+    {
+        "category": "Programming",
+        "id": "5765a671-ea71-43d9-a87f-2a1f278c5d2f",
+        "joke": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn\u2019t."
+    },
+    {
+        "category": "Programming",
+        "id": "0a99ade7-f90d-44b4-aa85-cb0e57dfdc78",
+        "joke": "There are 10 kinds of people in this world.\nThose who understand binary, those who don't, and those who weren't expecting a base 3 joke."
+    },
+    {
+        "category": "Programming",
+        "id": "58a27c8f-54c6-4c42-a27b-d533a4441cbf",
+        "joke": "What did the router say to the doctor?\nIt hurts when IP."
+    },
+    {
+        "category": "Programming",
+        "id": "8cb80e1b-280f-4f2d-b07d-f5febbdca88e",
+        "joke": "An IPv6 packet is walking out of the house.\nHe goes nowhere."
+    },
+    {
+        "category": "Programming",
+        "id": "bcf5a8b3-c15b-45a3-afc6-3103f676a062",
+        "joke": "A DHCP packet walks into a bar and asks for a beer.\nBartender says, \"here, but I\u2019ll need that back in an hour!\""
+    },
+    {
+        "category": "Programming",
+        "id": "e47c76de-c451-4916-972d-ad72473684b9",
+        "joke": "3 SQL statements walk into a NoSQL bar. Soon, they walk out\nThey couldn't find a table."
+    },
+    {
+        "category": "Programming",
+        "id": "9dc8e3a8-130b-4038-b94e-7c7539130c4a",
+        "joke": "What\u2019s the object-oriented way to become wealthy?\nInheritance."
+    },
+    {
+        "category": "Programming",
+        "id": "5c178b2f-dc61-443a-9e55-81ae9057a8ae",
+        "joke": "Why dot net developers don't wear glasses?\nBecause they see sharp."
+    },
+    {
+        "category": "Programming",
+        "id": "67df3310-9393-45bd-8b49-736ba3540109",
+        "joke": "What did the Java code say to the C code?\nYou've got no class."
+    },
+    {
+        "category": "Programming",
+        "id": "bc130486-bdb0-4a64-bdb3-8ab4e9f809cf",
+        "joke": "What is the most used language in Programming?\nProfanity."
+    },
+    {
+        "category": "Programming",
+        "id": "a3a45519-bcbe-4223-bcb2-40455d2ff2a1",
+        "joke": "Why do programmers always get Christmas and Halloween mixed up?\nBecause DEC 25 = OCT 31"
+    },
+    {
+        "category": "Programming",
+        "id": "955e181c-1955-472b-96a4-0fccfa6849df",
+        "joke": "What goes after USA?\nUSB."
+    },
+    {
+        "category": "Programming",
+        "id": "c1e89510-bcce-4801-a014-5c524ef93c8d",
+        "joke": "A male developer often gets called as a Dev, then what would you call a female developer?\nDevi."
+    },
+    {
+        "category": "Programming",
+        "id": "d754543f-e571-4842-866f-49275e175d60",
+        "joke": "Where did the API go to eat?\nTo the RESTaurant."
+    },
+    {
+        "category": "Programming",
+        "id": "c34336f8-d1ca-4ee6-929c-6cdca03d9b17",
+        "joke": "Hey, wanna hear a joke?\nParsing HTML with regex."
+    },
+    {
+        "category": "Programming",
+        "id": "329254dc-dcd5-462a-8163-eebabf44ad04",
+        "joke": "I just got fired from my job at the keyboard factory.\nThey told me I wasn't putting in enough shifts."
+    },
+    {
+        "category": "Programming",
+        "id": "0",
+        "joke": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it."
+    },
+    {
+        "category": "Programming",
+        "id": "1",
+        "joke": "How many programmers does it take to screw in a light bulb?\nNone. It's a hardware problem."
+    },
+    {
+        "category": "Programming",
+        "id": "2",
+        "joke": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\""
+    },
+    {
+        "category": "Programming",
+        "id": "3",
+        "joke": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't."
+    },
+    {
+        "category": "Programming",
+        "id": "4",
+        "joke": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't."
+    },
+    {
+        "category": "Programming",
+        "id": "5",
+        "joke": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\""
+    },
+    {
+        "category": "Programming",
+        "id": "6",
+        "joke": "Why did the web developer walk out of a resturant in disgust?\nThe seating was laid out in tables."
+    },
+    {
+        "category": "Programming",
+        "id": "7",
+        "joke": "Why is 6 afraid of 7 in hexadecimal Canada?\nBecause 7 8 9 A?"
+    },
+    {
+        "category": "Programming",
+        "id": "8",
+        "joke": "Programming is like sex.\nMake one mistake and you end up supporting it for the rest of your life."
+    },
+    {
+        "category": "Programming",
+        "id": "9",
+        "joke": "Your mama's so FAT she can't save files bigger than 4GB."
+    },
+    {
+        "category": "Programming",
+        "id": "10",
+        "joke": "Hey, wanna hear a joke?\nParsing HTML with regex."
+    },
+    {
+        "category": "Programming",
+        "id": "11",
+        "joke": "Why do programmers confuse Halloween and Christmas?\nBecause Oct 31 = Dec 25"
+    },
+    {
+        "category": "Programming",
+        "id": "12",
+        "joke": "// This line doesn't actually do anything, but the code stops working when I delete it."
+    },
+    {
+        "category": "Programming",
+        "id": "13",
+        "joke": "Why does no one like SQLrillex?\nHe keeps dropping the database."
+    },
+    {
+        "category": "Programming",
+        "id": "14",
+        "joke": "What do you call a developer who doesn't comment code?\nA developer."
+    },
+    {
+        "category": "Programming",
+        "id": "15",
+        "joke": "Why did the Python programmer not respond to the foreign mails he got?\nBecause his interpreter was busy collecting garbage."
+    },
+    {
+        "category": "Programming",
+        "id": "16",
+        "joke": "Why did the programmer quit his job?\nBecause he didn't get arrays."
+    },
+    {
+        "category": "Programming",
+        "id": "17",
+        "joke": "How can you tell an extroverted programmer?\nHe looks at YOUR shoes when he's talking."
+    },
+    {
+        "category": "Programming",
+        "id": "18",
+        "joke": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned."
+    },
+    {
+        "category": "Programming",
+        "id": "19",
+        "joke": "How do you know God is a shitty programmer?\nHe wrote the OS for an entire universe, but didn't leave a single useful comment."
+    },
+    {
+        "category": "Programming",
+        "id": "20",
+        "joke": "\"We messed up the keming again guys.\""
+    },
+    {
+        "category": "Programming",
+        "id": "21",
+        "joke": "Why are modern Programming languages so materialistic?\nBecause they are object-oriented."
+    },
+    {
+        "category": "Programming",
+        "id": "22",
+        "joke": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does."
+    },
+    {
+        "category": "Programming",
+        "id": "23",
+        "joke": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be."
+    },
+    {
+        "category": "Programming",
+        "id": "24",
+        "joke": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\""
+    },
+    {
+        "category": "Programming",
+        "id": "25",
+        "joke": "ASCII silly question, get a silly ANSI."
+    },
+    {
+        "category": "Programming",
+        "id": "26",
+        "joke": "What do you get if you lock a monkey in a room with a typewriter for 8 hours?\nA regular expression."
+    },
+    {
+        "category": "Programming",
+        "id": "27",
+        "joke": "Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone."
+    },
+    {
+        "category": "Programming",
+        "id": "28",
+        "joke": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\""
+    },
+    {
+        "category": "Programming",
+        "id": "29",
+        "joke": "What do you call a group of 8 Hobbits?\nA Hobbyte."
+    },
+    {
+        "category": "Programming",
+        "id": "30",
+        "joke": "Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender."
+    },
+    {
+        "category": "Programming",
+        "id": "31",
+        "joke": "Why did the JavaScript heap close shop?\nIt ran out of memory."
+    },
+    {
+        "category": "Programming",
+        "id": "32",
+        "joke": "What is the best prefix for global variables?\n//"
+    },
+    {
+        "category": "Programming",
+        "id": "33",
+        "joke": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary."
+    },
+    {
+        "category": "Programming",
+        "id": "34",
+        "joke": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\""
+    },
+    {
+        "category": "Programming",
+        "id": "35",
+        "joke": "There are only 10 kinds of people in this world: those who know binary and those who don't."
+    },
+    {
+        "category": "Programming",
+        "id": "36",
+        "joke": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\""
+    },
+    {
+        "category": "Programming",
+        "id": "37",
+        "joke": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science."
+    },
+    {
+        "category": "Programming",
+        "id": "38",
+        "joke": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\""
+    },
+    {
+        "category": "Programming",
+        "id": "39",
+        "joke": "The generation of random numbers is too important to be left to chance."
+    },
+    {
+        "category": "Programming",
+        "id": "40",
+        "joke": "Debugging: Removing the needles from the haystack."
+    },
+    {
+        "category": "Programming",
+        "id": "41",
+        "joke": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you."
+    },
+    {
+        "category": "Programming",
+        "id": "42",
+        "joke": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time."
+    },
+    {
+        "category": "Programming",
+        "id": "43",
+        "joke": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5."
+    },
+    {
+        "category": "Programming",
+        "id": "44",
+        "joke": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday."
+    },
+    {
+        "category": "Programming",
+        "id": "45",
+        "joke": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\""
+    },
+    {
+        "category": "Programming",
+        "id": "46",
+        "joke": "What's the object-oriented way to become wealthy?\nInheritance."
+    },
+    {
+        "category": "Programming",
+        "id": "48",
+        "joke": "Why did the functional programmer get thrown out of school?\nBecause he refused to take classes."
+    },
+    {
+        "category": "Programming",
+        "id": "49",
+        "joke": ".NET developers are picky when it comes to food.\nThey only like chicken NuGet."
+    },
+    {
+        "category": "Programming",
+        "id": "50",
+        "joke": "Why do programmers wear glasses?\nBecause they need to C#"
+    },
+    {
+        "category": "Programming",
+        "id": "51",
+        "joke": "Algorithm: A word used by programmers when they don't want to explain how their code works."
+    },
+    {
+        "category": "Programming",
+        "id": "52",
+        "joke": "So what's a set of predefined steps the government might take to preserve the environment?\nAn Al-Gore-ithm."
+    },
+    {
+        "category": "Programming",
+        "id": "53",
+        "joke": "Why do Java programmers hate communism?\nThey don't want to live in a classless society."
+    },
+    {
+        "category": "Programming",
+        "id": "54",
+        "joke": "Hey baby I wish your name was asynchronous...\n... so you'd give me a callback."
+    },
+    {
+        "category": "Programming",
+        "id": "55",
+        "joke": "Your momma is so fat, you need to switch to NTFS to store a picture of her."
+    },
+    {
+        "category": "Programming",
+        "id": "56",
+        "joke": "What is a dying programmer's last program?\nGoodbye, world!"
+    },
+    {
+        "category": "Programming",
+        "id": "57",
+        "joke": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\""
+    },
+    {
+        "category": "Programming",
+        "id": "123",
+        "joke": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?"
+    },
+    {
+        "category": "Programming",
+        "id": "127",
+        "joke": "How do you generate a random string?\nPut a Windows user in front of Vim and tell them to exit."
+    },
+    {
+        "category": "Programming",
+        "id": "132",
+        "joke": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\"."
+    },
+    {
+        "category": "Programming",
+        "id": "147",
+        "joke": "How did you make your friend rage?\nI implemented a greek question mark in his JavaScript code."
+    },
+    {
+        "category": "Programming",
+        "id": "180",
+        "joke": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock."
+    },
+    {
+        "category": "Programming",
+        "id": "184",
+        "joke": "Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning."
+    },
+    {
+        "category": "Programming",
+        "id": "193",
+        "joke": "What is the most used language in Programming?\nProfanity."
+    },
+    {
+        "category": "Programming",
+        "id": "211",
+        "joke": "What are bits?\nTiny things left when you drop your computer down the stairs."
+    },
+    {
+        "category": "Programming",
+        "id": "214",
+        "joke": "Why did the programmer jump on the table?\nBecause debug was on his screen."
+    },
+    {
+        "category": "Programming",
+        "id": "221",
+        "joke": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\""
+    },
+    {
+        "category": "Programming",
+        "id": "226",
+        "joke": "Why do they call it hyper terminal?\nToo much Java."
+    },
+    {
+        "category": "Programming",
+        "id": "232",
+        "joke": "Why do programmers prefer using the dark mode?\nBecause light attracts bugs."
+    },
+    {
+        "category": "Programming",
+        "id": "234",
+        "joke": "Why did the Python data scientist get arrested at customs?\nShe was caught trying to import pandas!"
+    },
+    {
+        "category": "Programming",
+        "id": "259",
+        "joke": "UDP is better in the COVID era since it avoids unnecessary handshakes."
+    },
+    {
+        "category": "Programming",
+        "id": "260",
+        "joke": "Why is Linux safe?\nHackers peak through Windows only."
+    },
+    {
+        "category": "Programming",
+        "id": "264",
+        "joke": "Why are Assembly programmers always soaking wet?\nThey work below C-level."
+    },
+    {
+        "category": "Programming",
+        "id": "265",
+        "joke": "Why did the database administrator leave his wife?\nShe had one-to-many relationships."
+    },
+    {
+        "category": "Programming",
+        "id": "266",
+        "joke": "How did the programmer die in the shower?\nHe read the shampoo bottle instructions: Lather. Rinse. Repeat."
+    },
+    {
+        "category": "Programming",
+        "id": "292",
+        "joke": "Why was the Javascript developer sad?\nBecause they didn't Node how to Express themself."
+    },
+    {
+        "category": "Programming",
+        "id": "294",
+        "joke": "why do python programmers wear glasses?\nBecause they can't C."
+    },
+    {
+        "category": "Programming",
+        "id": "301",
+        "joke": "I have a joke about Stack Overflow, but you would say it's a duplicate."
+    },
+    {
+        "category": "Programming",
+        "id": "305",
+        "joke": "Documentation is like sex:\nWhen it's good, it's very good.\nWhen it's bad, it's better than nothing..."
+    },
+    {
+        "category": "Programming",
+        "id": "319",
+        "joke": "I'd tell you a joke about NAT but I would have to translate."
+    }
+]
