@@ -48,4 +48,4 @@ def get_joke(
     return random_element(seq=jokes)
 
 if __name__ == '__main__':
-    uvicorn.run(app="app:api", host="0.0.0.0", port=7860, reload=True)
+    uvicorn.run(app="app:api", host="0.0.0.0", port=8000, reload=True)
